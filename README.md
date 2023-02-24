@@ -1,7 +1,7 @@
 ### Olá, Meu Nome é Victor Muza
 
 <div align="center">
-  <a href="https://github.com/Legalso">
+  <a href="https://github.com/Victor733">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Legalso&show_icons=true&title_color=A9FEF7&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legalso&title_color=A9FEF7&layout=compact&langs_count=7&theme=radical"/>
   </a>
@@ -13,7 +13,7 @@
 </div>
 <br/>
 <div align="center">
-<a href="https://www.linkedin.com/in/caiopatriota/">
+<a href="https://www.linkedin.com/in/victor-muza/">
   <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 </div>
